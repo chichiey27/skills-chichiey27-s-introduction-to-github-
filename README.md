@@ -1,5 +1,5 @@
 <header>
-
+Hey there! I am chichiey. This is my first time on Git Hub
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
